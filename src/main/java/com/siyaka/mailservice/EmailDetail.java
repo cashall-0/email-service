@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class EmailDetail {
-    //"recipient@example.com", "Test Subject", "Test Body"
+    //"recipient@example.com", "Test Subject", "Testing Body"
     private String recipient;
     private String subject;
     private String body;
